@@ -16,8 +16,9 @@ activityURL <- "ENTER FILEPATH/FILENAME"
 tidyDataSetFile <- "ENTER FILEPATH/FILENAME"
 
 #### files defined in variables above outside function  ##
-run_analysis <- function()     
-{
+## MISREAD- FUnction not required
+##run_analysis <- function()     
+##{
   
   ### 1. merged data and training sets create one set ####
   Xtest <- read.table(XtestURL)
@@ -104,7 +105,7 @@ run_analysis <- function()
   # commenting out write as it did not specify to write the set to a directory. Using print to show the results in console 
   write.csv(y,tidyDataSetFile)
   print(y)
-}
+##}
 
 
 
