@@ -4,7 +4,7 @@ This repo contains the run_analysis.R function required for the final project. I
 
 Peer-graded Assignment: Getting and Cleaning Data Course Project
 
-The script Performs the following steps in the function:
+The script Performs the following steps in the functions:
 
 1) combines the training and tests data sets
 2) renames the fields from the data sets containing the names and the activity code labels

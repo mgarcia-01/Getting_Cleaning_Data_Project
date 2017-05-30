@@ -15,8 +15,8 @@ featuresURL <- "ENTER FILEPATH/FILENAME"
 activityURL <- "ENTER FILEPATH/FILENAME"
 tidyDataSetFile <- "ENTER FILEPATH/FILENAME"
 
-#### files defined in variables above outside function  ##
-## MISREAD- FUnction not required
+#### files defined in variables above outside function  ###
+## MISREAD- FUnction not required 
 ##run_analysis <- function()     
 ##{
   
