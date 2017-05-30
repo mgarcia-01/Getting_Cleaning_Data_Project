@@ -4,6 +4,20 @@ This repo contains the run_analysis.R function required for the final project. I
 
 Peer-graded Assignment: Getting and Cleaning Data Course Project
 
+The script Performs the following steps in the function:
+
+1) combines the training and tests data sets
+2) renames the fields from the data sets containing the names and the activity code labels
+3) it combines the activity with training and tests combined set. It does this after renaming.
+4) It then creates a new set that includes only means and standard deviations. 
+5) it renames some values in the field names to understand the code such as "f" and "t" and mean and std dev
+6) then it finally calculates the mean for each column based on grouping of Subjects and their respective Activity.
+
+
+==================================================================================================================
+==================================================================================================================
+
+
 
 Readme from Data Source Owners:
 ==================================================================
